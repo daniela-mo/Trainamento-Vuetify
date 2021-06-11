@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "nome": "Daniela",
+      "sobrenome": "Olivera",
+      "email": "daniela@signainfo.com.br",
+      "senha": "dmatos",
+      "genero": "feminino",
+      "id": 1
+    }
+  ],
+  "desserts": [
+    {
+      "name": "How I met yout mother",
+      "phase": "Finalizada",
+      "gender": "Comédia Romântica",
+      "plataform": "Prime Video",
+      "seasons": "9",
+      "year": "2005",
+      "age": "16",
+      "id": 1
+    },
+    {
+      "name": "teste1",
+      "phase": "teste1",
+      "gender": "teste1",
+      "plataform": "teste",
+      "seasons": "teste1",
+      "year": "teste1",
+      "age": "teste1",
+      "id": 3
+    },
+    {
+      "name": "the big bang theory",
+      "phase": "finalizada",
+      "gender": "comédia",
+      "plataform": "Globo Play",
+      "seasons": "12",
+      "year": "2007",
+      "age": "16",
+      "id": 4
+    }
+  ]
+}
